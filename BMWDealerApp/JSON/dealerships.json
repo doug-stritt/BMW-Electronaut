@@ -1,0 +1,445 @@
+{
+	"dealerships":[
+        {
+			"id":10699,
+			"name":"BMW of Peabody",
+			"dma":"Boston, MA",
+			"latitude":42.546021,
+			"longitude":-70.94279
+		},
+        {
+			"id":26598,
+			"name":"Wagner BMW of Shrewsbury",
+			"dma":"Boston, MA",
+			"latitude":42.277777,
+			"longitude":-71.693825
+		},
+		{
+			"id":34400,
+			"name":"Herb Chambers BMW",
+			"dma":"Boston, MA",
+			"latitude":42.350402,
+			"longitude":-71.127871
+		},
+		{
+			"id":23200,
+			"name":"Continental BMW of Darien",
+			"dma":"New York, NY",
+			"latitude":41.072769,
+			"longitude":-73.475744
+		},
+		{
+			"id":24618,
+			"name":"BMW of Bridgeport",
+			"dma":"New York, NY",
+			"latitude":41.20221,
+			"longitude":-73.189693
+		},
+		{
+			"id":30413,
+			"name":"BMW of Greenwich",
+			"dma":"New York, NY",
+			"latitude":41.022524,
+			"longitude":-73.639166
+		},
+		{
+			"id":20173,
+			"name":"New Country BMW",
+			"dma":"",
+			"latitude":41.781417,
+			"longitude":-72.666611
+		},
+		{
+			"id":30460,
+			"name":"BMW Mt. Kisco",
+			"dma":"New York, NY",
+			"latitude":41.215382,
+			"longitude":-73.726773
+		},
+		{
+			"id":32083,
+			"name":"BMW of Ridgefield",
+			"dma":"New York, NY",
+			"latitude":41.3216,
+			"longitude":-73.476173
+		},
+		{
+			"id":56421,
+			"name":"BMW of Watertown",
+			"dma":"",
+			"latitude":41.572939,
+			"longitude":-73.099387
+		},
+		{
+			"id":59127,
+			"name":"BMW of North Haven",
+			"dma":"",
+			"latitude":41.421512,
+			"longitude":-72.839652
+		},
+		{
+			"id":33326,
+			"name":"BMW of Westchester",
+			"dma":"New York, NY",
+			"latitude":41.043136,
+			"longitude":-73.799013
+		},
+		{
+			"id":10695,
+			"name":"BMW of Bayside",
+			"dma":"New York, NY",
+			"latitude":40.766993,
+			"longitude":-73.739522
+		},
+		{
+			"id":56000,
+			"name":"Life Quality BMW",
+			"dma":"New York, NY",
+			"latitude":40.617015,
+			"longitude":-74.031071
+		},
+		{
+			"id":25770,
+			"name":"Wide World BMW",
+			"dma":"New York, NY",
+			"latitude":41.107452,
+			"longitude":-74.037358
+		},
+		{
+			"id":26443,
+			"name":"Prestige BMW",
+			"dma":"New York, NY",
+			"latitude":41.065217,
+			"longitude":-74.130844
+		},
+		{
+			"id":26717,
+			"name":"BMW of Bloomfield",
+			"dma":"New York, NY",
+			"latitude":40.789262,
+			"longitude":-74.194571
+		},
+		{
+			"id":65775,
+			"name":"BMW of Manhattan",
+			"dma":"New York, NY",
+			"latitude":40.770191,
+			"longitude":-73.990822
+		},
+		{
+			"id":68500,
+			"name":"Park Avenue BMW",
+			"dma":"New York, NY",
+			"latitude":40.8946,
+			"longitude":-74.071971
+		},
+		{
+			"id":16856,
+			"name":"BMW of Morristown",
+			"dma":"New York, NY",
+			"latitude":40.802962,
+			"longitude":-74.464034
+		},
+		{
+			"id":30462,
+			"name":"BMW of Freehold",
+			"dma":"New York, NY",
+			"latitude":40.27482,
+			"longitude":-74.294036
+		},
+		{
+			"id":50000,
+			"name":"JMK BMW",
+			"dma":"New York, NY",
+			"latitude":40.686809,
+			"longitude":-74.315642
+		},
+		{
+			"id":56738,
+			"name":"Open Road BMW",
+			"dma":"New York, NY",
+			"latitude":40.510386,
+			"longitude":-74.386802
+		},
+		{
+			"id":66771,
+			"name":"Circle BMW",
+			"dma":"New York, NY",
+			"latitude":40.290717,
+			"longitude":-74.041547
+		},
+		{
+			"id":20989,
+			"name":"Orange County BMW",
+			"dma":"New York, NY",
+			"latitude":41.314807,
+			"longitude":-74.139404
+		},
+		{
+			"id":21614,
+			"name":"BMW of the Hudson Valley",
+			"dma":"New York, NY",
+			"latitude":41.63092,
+			"longitude":-73.914272
+		},
+		{
+			"id":76561,
+			"name":"Savage BMW",
+			"dma":"Los Angeles, CA",
+			"latitude":34.049875,
+			"longitude":-117.544132
+		},
+		{
+			"id":76886,
+			"name":"BMW of Riverside",
+			"dma":"Los Angeles, CA",
+			"latitude":33.922636,
+			"longitude":-117.417309
+		},
+		{
+			"id":4603,
+			"name":"BMW of Palm Springs",
+			"dma":"Palm Springs, CA",
+			"latitude":33.79487,
+			"longitude":-116.504895
+		},
+		{
+			"id":16483,
+			"name":"BMW of Escondido",
+			"dma":"San Diego, CA",
+			"latitude":33.116494,
+			"longitude":-117.107994
+		},
+		{
+			"id":24335,
+			"name":"BMW of San Diego",
+			"dma":"San Diego, CA",
+			"latitude":32.827878,
+			"longitude":-117.143979
+		},
+		{
+			"id":31774,
+			"name":"BMW of Vista",
+			"dma":"San Diego, CA",
+			"latitude":33.190173,
+			"longitude":-117.273581
+		},
+		{
+			"id":32467,
+			"name":"BMW South County",
+			"dma":"San Diego, CA",
+			"latitude":32.78511,
+			"longitude":-116.977135
+		},
+		{
+			"id":4660,
+			"name":"Santa Monica BMW",
+			"dma":"Los Angeles, CA",
+			"latitude":34.022225,
+			"longitude":-118.488017
+		},
+		{
+			"id":4942,
+			"name":"Nick Alexander Imports",
+			"dma":"Los Angeles, CA",
+			"latitude":33.981996,
+			"longitude":-118.236315
+		},
+		{
+			"id":17966,
+			"name":"New Century BMW",
+			"dma":"Los Angeles, CA",
+			"latitude":34.092101,
+			"longitude":-118.134963
+		},
+		{
+			"id":21390,
+			"name":"Beverly Hills BMW",
+			"dma":"Los Angeles, CA",
+			"latitude":34.062117,
+			"longitude":-118.338412
+		},
+		{
+			"id":22007,
+			"name":"South Bay BMW",
+			"dma":"Los Angeles, CA",
+			"latitude":33.844986,
+			"longitude":-118.353814
+		},
+		{
+			"id":4552,
+			"name":"Crevier BMW",
+			"dma":"Los Angeles, CA",
+			"latitude":33.726954,
+			"longitude":-117.838307
+		},
+		{
+			"id":21188,
+			"name":"Irvine BMW",
+			"dma":"Los Angeles, CA",
+			"latitude":33.631474,
+			"longitude":-117.726029
+		},
+		{
+			"id":65256,
+			"name":"Shelly BMW",
+			"dma":"Los Angeles, CA",
+			"latitude":33.861998,
+			"longitude":-117.988231
+		},
+		{
+			"id":86513,
+			"name":"Sterling BMW",
+			"dma":"Los Angeles, CA",
+			"latitude":33.62152,
+			"longitude":-117.925501
+		},
+		{
+			"id":96733,
+			"name":"McKenna BMW",
+			"dma":"Los Angeles, CA",
+			"latitude":33.922509,
+			"longitude":-118.10209
+		},
+		{
+			"id":4355,
+			"name":"Center BMW",
+			"dma":"Los Angeles, CA",
+			"latitude":34.165103,
+			"longitude":-118.449075
+		},
+		{
+			"id":20268,
+			"name":"Century West BMW",
+			"dma":"Los Angeles, CA",
+			"latitude":34.146967,
+			"longitude":-118.363811
+		},
+		{
+			"id":31642,
+			"name":"BMW of Monrovia",
+			"dma":"Los Angeles, CA",
+			"latitude":34.137472,
+			"longitude":-117.987084
+		},
+		{
+			"id":76837,
+			"name":"Pacific BMW",
+			"dma":"Los Angeles, CA",
+			"latitude":34.137055,
+			"longitude":-118.254753
+		},
+		{
+			"id":4637,
+			"name":"Bob Smith BMW",
+			"dma":"Los Angeles, CA",
+			"latitude":34.149966,
+			"longitude":-118.662107
+		},
+		{
+			"id":86846,
+			"name":"Rusnak BMW",
+			"dma":"Los Angeles, CA",
+			"latitude":34.162481,
+			"longitude":-118.831414
+		},
+		{
+			"id":86846,
+			"name":"Niello BMW Sacramento",
+			"dma":"Sacramento-Stockton-Modesto, CA",
+			"latitude":38.601942,
+			"longitude":-121.400668
+		},
+		{
+			"id":4247,
+			"name":"BMW of San Francisco",
+			"dma":"San Fran.-Oakland-San Jose, CA",
+			"latitude":37.770291,
+			"longitude":-122.4175
+		},
+		{
+			"id":4497,
+			"name":"BMW Concord",
+			"dma":"San Fran.-Oakland-San Jose, CA",
+			"latitude":37.974615,
+			"longitude":-122.044917
+		},
+		{
+			"id":4514,
+			"name":"Weatherford BMW",
+			"dma":"San Fran.-Oakland-San Jose, CA",
+			"latitude":37.850967,
+			"longitude":-122.293889
+		},
+		{
+			"id":10731,
+			"name":"East Bay BMW",
+			"dma":"San Fran.-Oakland-San Jose, CA",
+			"latitude":37.699663,
+			"longitude":-121.876497
+		},
+		{
+			"id":4444,
+			"name":"Sonnen BMW",
+			"dma":"San Fran.-Oakland-San Jose, CA",
+			"latitude":37.951016,
+			"longitude":-122.495142
+		},
+		{
+			"id":21618,
+			"name":"BMW of Mountain View",
+			"dma":"San Fran.-Oakland-San Jose, CA",
+			"latitude":37.380186,
+			"longitude":-122.072139
+		},
+		{
+			"id":22083,
+			"name":"Stevens Creek BMW",
+			"dma":"San Fran.-Oakland-San Jose, CA",
+			"latitude":37.324037,
+			"longitude":-121.977426
+		},
+		{
+			"id":24856,
+			"name":"BMW of Fremont",
+			"dma":"San Fran.-Oakland-San Jose, CA",
+			"latitude":37.498752,
+			"longitude":-121.975207
+		},
+		{
+			"id":32652,
+			"name":"Peter Pan BMW",
+			"dma":"San Fran.-Oakland-San Jose, CA",
+			"latitude":37.543198,
+			"longitude":-122.303188
+		},
+		{
+			"id":0,
+			"name":"BMW of Murieta",
+			"dma":"San Fran.-Oakland-San Jose, CA",
+			"latitude":33.529992,
+			"longitude":-117.171111
+		},
+		{
+			"id":0,
+			"name":"BMW of Sudbury",
+			"dma":"San Fran.-Oakland-San Jose, CA",
+			"latitude":42.364168,
+			"longitude":-71.39284
+		},
+		{
+			"id":0,
+			"name":"Hassel BMW",
+			"dma":"San Fran.-Oakland-San Jose, CA",
+			"latitude":40.655574,
+			"longitude":-73.595495
+		},
+		{
+			"id":0,
+			"name":"Long Beach BMW",
+			"dma":"San Fran.-Oakland-San Jose, CA",
+			"latitude":33.62152,
+			"longitude":-117.925501
+		}
+	]
+}
